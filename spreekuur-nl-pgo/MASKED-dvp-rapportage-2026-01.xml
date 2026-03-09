@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DVPRapportage>
+  <DVPRapportageMeta>
+    <Deelnemer>14</Deelnemer>
+    <Leverancier>Topicus</Leverancier>
+    <TijdstempelUitvoering>2026-02-10 17:56:08.784494</TijdstempelUitvoering>
+    <RapportageMaand>2026-02-01</RapportageMaand>
+    <WindowStartMaand>2026-01-01</WindowStartMaand>
+    <WindowEindMaand>2026-02-01</WindowEindMaand>
+    <WindowStartTwaalfMaand>2025-01-01</WindowStartTwaalfMaand>
+    <WindowEindTwaalfMaand>2026-02-01</WindowEindTwaalfMaand>
+    <Note>Data van vóór mei 2025 is mogelijk incompleet vanwege wijzigingen in de dataopslag. Dit heeft met name invloed op de KPI GebruikersAfgelopenJaar als een deel van het tijdsbereik nog vóór mei 2025 ligt.</Note>
+  </DVPRapportageMeta>
+  <DataRecord>
+    <GebruikersAfgelopenJaar>63978</GebruikersAfgelopenJaar>
+    <GebruikersAfgelopenMaand>18116</GebruikersAfgelopenMaand>
+    <AantalBezoekers>10611</AantalBezoekers>
+    <AantalFailed>5548</AantalFailed>
+    <AantalSuccesvol>1957</AantalSuccesvol>
+    <AantalInactief>1216</AantalInactief>
+    <AantalFrequent>726</AantalFrequent>
+    <AantalNonFrequent>15</AantalNonFrequent>
+    <AantalLangdurigeToestemming>13795</AantalLangdurigeToestemming>
+    <AantalEenmaligGebruik>791</AantalEenmaligGebruik>
+    <AantalTweeTotVijfmaligGebruik>1000</AantalTweeTotVijfmaligGebruik>
+    <AantalZesTotNegenmaligGebruik>111</AantalZesTotNegenmaligGebruik>
+    <AantalTienmaligOfMeerGebruik>55</AantalTienmaligOfMeerGebruik>
+    <AantalApp>6989</AantalApp>
+    <AantalPC>1715</AantalPC>
+    <AantalWeb>1688</AantalWeb>
+    <AantalSystem>50413</AantalSystem>
+    <SuccesvolApp>1353</SuccesvolApp>
+    <SuccesvolPC>426</SuccesvolPC>
+    <SuccesvolWeb>478</SuccesvolWeb>
+    <SuccesvolSystem>42098</SuccesvolSystem>
+    <UitvalApp>5636</UitvalApp>
+    <UitvalPC>1289</UitvalPC>
+    <UitvalWeb>1210</UitvalWeb>
+    <UitvalSystem>8315</UitvalSystem>
+    <UitvalZorgaanbiederZoeken>4612</UitvalZorgaanbiederZoeken>
+    <UitvalDigID>3083</UitvalDigID>
+    <UitvalUitwisseling>440</UitvalUitwisseling>
+    <SuccesvolZorgaanbiederZoeken>5780</SuccesvolZorgaanbiederZoeken>
+    <SuccesvolDigID>2697</SuccesvolDigID>
+    <SuccesvolUitwisseling>2257</SuccesvolUitwisseling>
+    <AantalEenmaligFailed>4430</AantalEenmaligFailed>
+    <AantalTweeTotVijfmaligFailed>1095</AantalTweeTotVijfmaligFailed>
+    <AantalZesTotNegenmaligFailed>20</AantalZesTotNegenmaligFailed>
+    <AantalTienmaligOfMeerFailed>3</AantalTienmaligOfMeerFailed>
+  </DataRecord>
+</DVPRapportage>
