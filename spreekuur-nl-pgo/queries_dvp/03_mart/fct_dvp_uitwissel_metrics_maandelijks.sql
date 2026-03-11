@@ -17,7 +17,7 @@ with maanden as (
 -- Parameters bepalen voor de query window gebaseerd op de maanden die in de dataset zitten. De interval bepaald de grootte van de window.
 , parameters as (
     select
-        maand as rapportage_maand
+        (maand - interval '1 month')::date as rapportage_maand
         , (maand - interval '1 month')::date as maand_van_window
         , (maand - interval '1 month')::date as window_start
         , maand                     as window_eind

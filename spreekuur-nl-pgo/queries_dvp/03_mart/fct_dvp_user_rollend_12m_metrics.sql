@@ -18,7 +18,7 @@ with maanden as (
 
 parameters as (
     select
-        maand as rapportage_maand
+        (maand - interval '1 month')::date as rapportage_maand
         , (maand - interval '1 month')::date as maand_van_window
         , (maand - interval '13 month')::date as window_start
         , maand as window_eind

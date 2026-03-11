@@ -16,6 +16,8 @@
 
 2026-03-05: Funneltellingen worden opgebouwd voor alle gebruikers, ongeacht langdurige toestemming. De specificatie in de definitielast is verwijderd.
 
+2026-03-11: Rapportagemaand een maand eerder gezet om te vangen om welke maand de rapportage draait, niet de maand waarin de rapportage wordt gegenereerd.
+
 ## Open punten
 
 - ...
